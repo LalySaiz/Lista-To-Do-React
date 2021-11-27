@@ -13,3 +13,5 @@ Los comandos que han sido utilizados para instalar Font Awesome han sido :
 E comando usado para las animaciones ha sido : 
 
 -npm i --s react-flip-move
+
+Se encuentra en el branch Master
